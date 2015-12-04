@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install packages
-sudo apt-get install curl vim
+sudo apt-get install curl
 
 # Salt Setup
 curl -L https://bootstrap.saltstack.com -o install_salt.sh
